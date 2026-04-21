@@ -63,4 +63,4 @@ the 62% baseline of always predicting death.
 - **Family Size** mattered — small families survived better than solo travellers or large families
 - **Port of Embarkation** was meaningful — Cherbourg passengers had 55% survival vs 34% for Southampton
 
-## Confusion Matrix
+
